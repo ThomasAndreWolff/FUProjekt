@@ -23,7 +23,8 @@
         "esbenp.prettier-vscode",
         "ms-python.autopep8",
         "github.copilot",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter"
       ]
     }
   },
