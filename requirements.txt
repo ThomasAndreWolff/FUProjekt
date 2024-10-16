@@ -1,0 +1,8 @@
+gurobipy
+networkx 
+matplotlib
+scipy
+pydantic
+pydantic-settings
+python-dotenv
+loguru
